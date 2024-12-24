@@ -1,0 +1,5 @@
+Data/AAPL_historical_data.csv
+Data/raw_analyst_ratings.csv
+.venv
+scripts/data_v.py
+scripts/data_a.py
